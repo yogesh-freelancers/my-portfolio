@@ -639,8 +639,8 @@ const Contact = ({t}) => {
     {Icon:IC.Mail,label:"Email",val:"cyogesh10h@gmail.com",href:"mailto:cyogesh10h@gmail.com",color:"#a78bfa"},
     {Icon:IC.Phone,label:"Phone",val:"+91 62635 59606",href:"tel:+916263559606",color:"#34d399"},
     {Icon:IC.Pin,label:"Location",val:"Dombivli West, Mumbai",href:"#",color:"#f472b6"},
-    {Icon:IC.Linkedin,label:"LinkedIn",val:"Connect with me",href:"https://linkedin.com",color:"#60a5fa"},
-    {Icon:IC.Github,label:"GitHub",val:"View my repos",href:"https://github.com",color:"#94a3b8"},
+    {Icon:IC.Linkedin,label:"LinkedIn",val:"Connect with me",href:"https://www.linkedin.com/in/yogesh-kumar-chaturvedi-98052025a/",color:"#60a5fa"},
+    {Icon:IC.Github,label:"GitHub",val:"View my repos",href:"https://github.com/yogesh-freelancers",color:"#94a3b8"},
     {Icon:IC.Briefcase,label:"Upwork",val:"Hire on Upwork",href:"https://upwork.com",color:"#14a800"},
   ];
   return (
